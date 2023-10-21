@@ -127,7 +127,7 @@ typedef enum drr_headertype {
 /* flag #28 is reserved for a Nutanix feature */
 /*
  * flag #29 is the last unused bit. It is reserved to indicate a to-be-designed
- * extension to the stream format which will accomodate more feature flags.
+ * extension to the stream format which will accommodate more feature flags.
  * If you need to add another feature flag, please reach out to the OpenZFS
  * community, e.g., on GitHub or Slack.
  */
